@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil GitHub 🚀
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UniBF**
 - 💻 Focado em **desenvolvimento backend**
-- 🌱 Estudando Python
+- 🐍 Estudando Python
 - 🔍 Buscando **estágio e oportunidades** para crescer junto com profissionais experientes
 - ⚡ Curioso, dedicado e apaixonado por resolver problemas com código
 
