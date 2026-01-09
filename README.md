@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Olá, me chamo Gabriel Lacerda!
 
-<!--
-**LacerdaDev0/LacerdaDev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil GitHub 🚀
 
-Here are some ideas to get you started:
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UniBF**
+- 💻 Focado em **desenvolvimento backend**
+- 🌱 Estudando Python
+- 🔍 Buscando **estágio e oportunidades** para crescer junto com profissionais experientes
+- ⚡ Curioso, dedicado e apaixonado por resolver problemas com código
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⭐ Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github" />
+</p>
+
+---
+
+## 📫 Contato
+- 📧 Email: gabriellacerdazen@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/lacerdadev
