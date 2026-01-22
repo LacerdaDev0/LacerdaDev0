@@ -13,7 +13,7 @@ Bem-vindo ao meu perfil GitHub 🚀
 
 ## ⭐ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,mysql" />
 </p>
 
 
