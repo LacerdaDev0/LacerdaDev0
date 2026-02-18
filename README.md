@@ -3,19 +3,35 @@
 Bem-vindo ao meu perfil GitHub 🚀
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UniBF**
-- 💻 Focado em **desenvolvimento backend**
+- 💻 Focado em **Analise De Dados**
 - 🐍 Estudando Python
 - 🔍 Buscando **estágio e oportunidades** para crescer junto com profissionais experientes
-- ⚡ Curioso, dedicado e apaixonado por resolver problemas com código
+- 📊 Focado em análise de dados, visualização e geração de insights estratégicos
 
 ---
 
 
 ## ⭐ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,git" />
 </p>
 
+---
+
+## 🛠 Ferramentas
+
+<p align="center">
+  <!-- MySQL -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="48"/>
+
+  <img src="https://skillicons.dev/icons?i=github" />
+
+  <!-- Excel -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="48"/>
+
+  <!-- Power BI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48"/>
+</p>
 
 ---
 
