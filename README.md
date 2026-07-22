@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil GitHub 🚀
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UniBF**
+- 🎓 Estudante de **Analise de Dados de Alta Perfomance** na **Cruzeiro do Sul**
 - 💻 Focado em **Analise De Dados**
 - 🐍 Estudando Python
 - 🔍 Buscando **estágio ou oportunidade Junior** para crescer junto com profissionais experientes
