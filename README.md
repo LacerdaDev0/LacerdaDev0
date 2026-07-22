@@ -14,7 +14,7 @@ Bem-vindo ao meu perfil GitHub 🚀
 ## 💻 Linguagens
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css" />
+  <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
@@ -26,17 +26,6 @@ Bem-vindo ao meu perfil GitHub 🚀
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
   <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" height="48"/>
-</p>
-
----
-
-## 📊 Business Intelligence
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48"/>
-  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-6B46C1?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
 ---
@@ -54,6 +43,7 @@ Bem-vindo ao meu perfil GitHub 🚀
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="48"/>
 </p>
 
